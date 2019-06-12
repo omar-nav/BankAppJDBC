@@ -1,5 +1,5 @@
 # BankAppJDBC
-** Banking App ** 
+# H1 Banking App  
  
 Create a mock bank in which you communicate with your user via the console. Persist your data in an Oracle SQL database using JDBC.  
  Your application ​must​:   - use at least one Statement, PreparedStatement, and CallableStatement - Use the DAO design pattern - Use proper coding conventions  - Ensure that input is thoroughly validated - Use JUnit to test your service layer 
